@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Бушуев\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Бушуев\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Snake MVVM.1242388406.00" t="ExcludeRecursive" />
+    <e p="D:\GeekBrains\Asteroid Game\Snake MVVM" t="IncludeRecursive">
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Bootstrap" t="Include">
+            <e p="Bootstrap.asmdef" t="Include" />
+            <e p="GameBootstrap.cs" t="Include" />
+          </e>
+          <e p="Model" t="Include">
+            <e p="Food.cs" t="Include" />
+            <e p="GameField.cs" t="Include" />
+            <e p="Model.asmdef" t="Include" />
+            <e p="Snake.cs" t="Include" />
+            <e p="SnakeElement.cs" t="Include" />
+          </e>
+          <e p="View" t="Include">
+            <e p="FoodView.cs" t="Include" />
+            <e p="GameExecuter.cs" t="Include" />
+            <e p="GameFieldView.cs" t="Include" />
+            <e p="SnakeControl.cs" t="Include" />
+            <e p="SnakeElementView.cs" t="Include" />
+            <e p="SnakeView.cs" t="Include" />
+            <e p="View.asmdef" t="Include" />
+          </e>
+          <e p="ViewModel" t="Include">
+            <e p="FoodLogic.cs" t="Include" />
+            <e p="GameFieldLogic.cs" t="Include" />
+            <e p="GameLogic.cs" t="Include" />
+            <e p="ISnakeControl.cs" t="Include" />
+            <e p="SnakeLogic.cs" t="Include" />
+            <e p="ViewModel.asmdef" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Bootstrap.csproj" t="IncludeRecursive" />
+      <e p="Model.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Snake MVVM.sln" t="IncludeFlat" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+      <e p="View.csproj" t="IncludeRecursive" />
+      <e p="ViewModel.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>
